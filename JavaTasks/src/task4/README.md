@@ -1,4 +1,3 @@
-Вот пример файла `ReadMe.md` с описанием задачи на русском и английском языках:
 
 # Задача 4
 
@@ -48,5 +47,3 @@ public class Main {
 **Description:**  
 The program calculates the value of the variable `b` through several operations using increments. Does the value of `b` printed on the screen match what you expected to see? If not, it is recommended to revisit the principles of prefix and postfix increments in Java.
 ```
-
-Этот текст описывает задачу и предлагает пользователю разобраться с префиксными и постфиксными инкрементами, если результат работы программы не соответствует ожидаемому.
