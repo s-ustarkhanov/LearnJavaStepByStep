@@ -1,5 +1,5 @@
 
-# Задача 4
+# Задача 4 (RU)
 
 ```java
 public class Main {
@@ -24,7 +24,7 @@ public class Main {
 
 ---
 
-# Task 4
+# Task 4 (EN)
 
 ```java
 public class Main {
