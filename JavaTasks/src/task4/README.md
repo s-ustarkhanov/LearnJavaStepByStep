@@ -46,4 +46,3 @@ public class Main {
 
 **Description:**  
 The program calculates the value of the variable `b` through several operations using increments. Does the value of `b` printed on the screen match what you expected to see? If not, it is recommended to revisit the principles of prefix and postfix increments in Java.
-```
