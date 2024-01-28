@@ -1,4 +1,4 @@
-package task1;
+package task001;
 
 public class Main {
     public static void main(String[] args) {
@@ -16,8 +16,5 @@ public class Main {
 
         System.out.println("Значение а: " + a + ". Значение b: " + b);
 
-        for (int i = 0; i < 5; i++) {
-                
-        }
     }
 }

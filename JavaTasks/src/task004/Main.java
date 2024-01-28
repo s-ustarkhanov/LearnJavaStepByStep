@@ -1,6 +1,4 @@
-package task4;
-
-import java.util.Scanner;
+package task004;
 
 public class Main {
     public static void main(String[] args) {
